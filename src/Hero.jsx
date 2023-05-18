@@ -29,7 +29,7 @@ function Hero() {
       <img
           className=" py-12
               -z-10 object-cover"
-          src="./src/assets/hero.png"
+          src="../images/hero.png"
           alt=""
         />
 
