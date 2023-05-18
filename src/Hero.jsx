@@ -29,7 +29,7 @@ function Hero() {
       <img
           className=" py-12
               -z-10 object-cover"
-          src="../images/hero.png"
+          src="https://github.com/kinemasa/myportfolio/blob/main/images/hero.png?raw=true"
           alt=""
         />
 
