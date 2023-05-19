@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import "./App.css";
+
 
 function Nav() {
   const [count, setCount] = useState(0);
