@@ -5,6 +5,8 @@ import Hero from './Hero.jsx'
 import About from './About.jsx'
 import './index.css'
 import Reseach from './Reseach.jsx'
+import Work from './Work.jsx'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -12,5 +14,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Hero />
     <About />
     <Reseach />
+    <Work  />
   </React.StrictMode>,
 )

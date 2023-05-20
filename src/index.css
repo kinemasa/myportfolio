@@ -11,3 +11,6 @@
   @apply block w-36 h-1 bg-underline rounded-full mb-1;
 }
 
+.section-paragraph{
+  @apply  my-6 w-full max-w-3xl;
+}
