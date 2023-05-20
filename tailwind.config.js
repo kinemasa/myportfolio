@@ -16,6 +16,9 @@ export default {
         input : "#2A2A33",
         "selected-text":"#A3A3FF",
       },
+    backgroundImage:{
+      'reserch-img':"url('/images/reserch.png')"
+    },
     },
     fontFamily:{
       poppins :["Poppins","sans-serif"]
