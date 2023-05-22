@@ -6,6 +6,7 @@ import About from './About.jsx'
 import './index.css'
 import Reseach from './Reseach.jsx'
 import Work from './Work.jsx'
+import Skill from './Skill.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -15,5 +16,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <About />
     <Reseach />
     <Work  />
+    <Skill />
   </React.StrictMode>,
 )
