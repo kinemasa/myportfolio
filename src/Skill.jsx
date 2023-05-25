@@ -7,7 +7,7 @@ function Skill() {
     <>
       {/* <!-- skill stuck --> */}
       <div
-        id="skills"
+        id="skill"
         className="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full"
       >
         <section className="w-full">

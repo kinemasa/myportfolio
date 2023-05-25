@@ -7,6 +7,7 @@ import './index.css'
 import Reseach from './Reseach.jsx'
 import Work from './Work.jsx'
 import Skill from './Skill.jsx'
+import Footer from './Footer.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -17,5 +18,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Reseach />
     <Work  />
     <Skill />
+    <Footer />
   </React.StrictMode>,
 )
